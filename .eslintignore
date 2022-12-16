@@ -1,0 +1,7 @@
+node_modules/
+build/
+public/
+src/
+craco.config.js
+tailwind.config.js
+postcss.config.js
