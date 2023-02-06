@@ -12,9 +12,6 @@ module.exports = {
         repay: '#e27860',
         primary: '#2D2D2D',
         primeBlack: 'rgba(45, 45, 45, 0.03)',
-        primeBlack20: 'rgba(45, 45, 45, 0.2)',
-        primeBlack50: 'rgba(45, 45, 45, 0.5)',
-        primeBlack80: 'rgba(45, 45, 45, 0.8)',
         grey: {
           100: '#F8F8F8',
           300: '#D5D5D5',
